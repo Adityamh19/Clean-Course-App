@@ -95,7 +95,7 @@ If you want to run this project on your own computer:
 
 ## 📂 Project Structure
 * `app.py`: The main application script for the web interface.
-* `Week2.ipynb`: Jupyter Notebook containing EDA, Feature Engineering, and Model Training logic.
+* `Recommend.ipynb`: Jupyter Notebook containing EDA, Feature Engineering, and Model Training logic.
 * `generate_optimized_dict.py`: The script used to compress the model size.
 * `models/`: Contains the optimized recommendation dictionary and course data.
 * `requirements.txt`: List of dependencies required to run the app.
